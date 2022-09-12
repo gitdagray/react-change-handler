@@ -1,5 +1,5 @@
 {
-  "name": "single-change-handler",
+  "name": "react-change-handler",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
